@@ -70,7 +70,7 @@
     "@types/jsonwebtoken": "^8.3.4",
     "@types/lodash": "^4.14.162",
     "@types/module-alias": "^2.0.0",
-    "@types/mongoose": "^6.0.5",
+    "@types/mongoose": "^5.11.96",
     "@types/node": "^10.17.0",
     "@types/supertest": "^2.0.8",
     "@types/swagger-jsdoc": "^0.0.2",
