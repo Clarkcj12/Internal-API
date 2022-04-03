@@ -80,7 +80,7 @@
     "mocha": "^6.2.2",
     "nodemon": "^2.0.12",
     "source-map-loader": "^0.2.4",
-    "supertest": "^4.0.2",
+    "supertest": "^6.2.2",
     "swagger-jsdoc": "^3.4.0",
     "swagger-ui-express": "^4.1.2",
     "ts-node": "^10.7.0",
