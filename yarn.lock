@@ -218,10 +218,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/lodash@^4.14.162":
-  version "4.14.162"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.162.tgz#65d78c397e0d883f44afbf1f7ba9867022411470"
-  integrity sha512-alvcho1kRUnnD1Gcl4J+hK0eencvzq9rmzvFPRmP5rPHx9VVsJj6bKLTATPVf9ktgv4ujzh7T+XWKp+jhuODig==
+"@types/lodash@^4.14.181":
+  version "4.14.181"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.181.tgz#d1d3740c379fda17ab175165ba04e2d03389385d"
+  integrity sha512-n3tyKthHJbkiWhDZs3DkhkCzt2MexYHXlX0td5iMplyfwketaOeKboEVBqzceH7juqvEg3q5oUoBFxSLu7zFag==
 
 "@types/mime@*":
   version "2.0.3"
@@ -290,10 +290,10 @@
   dependencies:
     "@types/superagent" "*"
 
-"@types/swagger-jsdoc@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@types/swagger-jsdoc/-/swagger-jsdoc-0.0.2.tgz#0ffa705ffc0b7adb253be1fbff5e6d96523322dd"
-  integrity sha512-6N4W5baJ7bV3q+urn4jMIzTzUMtdtYCKBCdu5BRfHSY1XTDGkvFCFEvs+lAdIy7VU/0LmKPvoZJ+wTPKayvKgA==
+"@types/swagger-jsdoc@^6.0.1":
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/@types/swagger-jsdoc/-/swagger-jsdoc-6.0.1.tgz#94a99aca0356cb64ad2a6eb903ed034703453801"
+  integrity sha512-+MUpcbyxD528dECUBCEVm6abNuORdbuGjbrUdHDeAQ+rkPuo2a+L4N02WJHF3bonSSE6SJ3dUJwF2V6+cHnf0w==
 
 "@types/swagger-ui-express@^3.0.1":
   version "3.0.1"
