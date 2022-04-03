@@ -68,7 +68,7 @@
     "@types/hapi__joi": "^15.0.4",
     "@types/helmet": "^0.0.42",
     "@types/jsonwebtoken": "^8.3.4",
-    "@types/lodash": "^4.14.162",
+    "@types/lodash": "^4.14.181",
     "@types/module-alias": "^2.0.0",
     "@types/mongoose": "^5.11.96",
     "@types/node": "^10.17.0",
