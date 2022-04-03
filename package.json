@@ -73,7 +73,7 @@
     "@types/mongoose": "^5.11.96",
     "@types/node": "^10.17.0",
     "@types/supertest": "^2.0.8",
-    "@types/swagger-jsdoc": "^0.0.2",
+    "@types/swagger-jsdoc": "^6.0.1",
     "@types/swagger-ui-express": "^3.0.1",
     "chai": "^4.2.0",
     "jsdoc": "^3.6.7",
