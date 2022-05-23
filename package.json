@@ -83,7 +83,7 @@
     "supertest": "^6.2.3",
     "swagger-jsdoc": "^6.2.1",
     "swagger-ui-express": "^4.3.0",
-    "ts-node": "^10.7.0",
+    "ts-node": "^10.8.0",
     "tslint": "^5.20.0",
     "tslint-config-airbnb": "^5.11.2",
     "tslint-eslint-rules": "^5.4.0",
