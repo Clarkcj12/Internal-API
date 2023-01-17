@@ -23,7 +23,7 @@
     "src"
   ],
   "dependencies": {
-    "@types/amqplib": "^0.8.2",
+    "@types/amqplib": "^0.10.1",
     "@types/mysql": "^2.15.21",
     "@types/uuid": "^8.3.4",
     "amqplib": "^0.10.3",
