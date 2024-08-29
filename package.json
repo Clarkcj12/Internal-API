@@ -53,7 +53,7 @@
     "request-promise": "^4.2.6",
     "util": "^0.12.5",
     "uuid": "^9.0.1",
-    "winston": "^3.13.0"
+    "winston": "^3.14.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
